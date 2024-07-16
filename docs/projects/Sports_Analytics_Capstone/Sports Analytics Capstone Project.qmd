@@ -5,7 +5,7 @@ date: July 2024
 resources: "."
 about: 
   template: marquee
-  image: cover.jpeg
+  image: Cover.jpeg
   links: 
     - icon: github
       text: "Github"
