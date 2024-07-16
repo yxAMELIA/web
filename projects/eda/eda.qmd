@@ -1,0 +1,24 @@
+---
+title: "Sports Analytics EDA Project"
+description: "EDA Project on WTA Grand Slam Statistics for SURE 2024 at Carneige Mellon University"
+date: June 2024
+resources: "."
+about: 
+  template: marquee
+  image: cover.png
+  links: 
+    - icon: github
+      text: "Github"
+      href: https://github.com/lucca-ferraz/SURE-EDA-Analysis.git
+    - icon: laptop
+      text: Slides
+      href: assets/EDA_WTA.pdf
+    - icon: file
+      text: Poster
+      href: bit.ly/mnbvpoiu
+    - icon: pencil
+      text: Report
+      href: bit.ly/mnbvpoiu
+---
+
+Insert description down here

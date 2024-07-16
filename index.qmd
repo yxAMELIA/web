@@ -1,0 +1,19 @@
+---
+title: "Amelia Yixin Yuan"
+about: 
+  template: solana
+  image: assets/Yixin_Photo.jpg
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:yxyuan@umich.edu
+    - icon: github
+      text: Github
+      href: https://github.com/yxAMELIA
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/amelia-yixin-yuan-037130253
+---
+
+Welcome to my website! I am an incoming junior at University of Michigan – Ann Arbor, majoring Mathematics and Statistics. I'm interested in data science and analytics, machine learning, quantitative finance, and software development.

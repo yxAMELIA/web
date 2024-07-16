@@ -1,0 +1,36 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Yixin Yuan (Amelia)"
+  navbar:
+    background: "#FFCB05"
+    foreground: "#00274C"
+    logo: logo.png
+    left: 
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/amelia-yixin-yuan-037130253
+      - icon: github
+        href: https://github.com/yxAMELIA
+      - icon: file-pdf
+        href: assets/Resume_AmeliaYuan copy.pdf
+      
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+      #- cosmo
+        #- custom.scss
+    css: styles.css
+    toc: true
+
+editor: visual
+

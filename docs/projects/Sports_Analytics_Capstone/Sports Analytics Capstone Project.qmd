@@ -1,0 +1,40 @@
+---
+title: "Sports Analytics Capstone Project"
+description: "Capstone project on modeling batted passes of NFL for SURE 2024 at Carneige Mellon University"
+date: July 2024
+resources: "."
+about: 
+  template: marquee
+  image: cover.jpeg
+  links: 
+    - icon: github
+      text: "Github"
+      href: https://github.com/lucca-ferraz/Modeling-Batted-Passes.git
+    - icon: laptop
+      text: Slides
+      href: assets/SURE_Checkpoint_1_Pre.pdf
+    - icon: file
+      text: Poster
+      href: bit.ly/mnbvpoiu
+    - icon: pencil
+      text: Report
+      href: bit.ly/mnbvpoiu
+---
+
+Insert description down here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
